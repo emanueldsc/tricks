@@ -8,6 +8,6 @@ Aqui estão alguns mini projeto desenvolvidos com html, css e javascripts roots 
 
 - # [Galeria de projetos](https://emanueldsc.github.io/tricks/)
 
-- ### [Cards animate](https://emanueldsc.github.io/tricks/cards-animate)
-- ### [Cards white](https://emanueldsc.github.io/tricks/cards-white)
+- ### [Cards animate](https://emanueldsc.github.io/tricks/cards_animate)
+- ### [Cards white](https://emanueldsc.github.io/tricks/cards_white)
 - ### [Scroll paralax circle background](#)
