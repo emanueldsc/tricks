@@ -10,4 +10,4 @@ Aqui estão alguns mini projeto desenvolvidos com html, css e javascripts roots 
 
 - ### [Cards animate](https://emanueldsc.github.io/tricks/cards_animate)
 - ### [Cards white](https://emanueldsc.github.io/tricks/cards_white)
-- ### [Scroll paralax circle background](#)
+- ### [Scroll paralax circle background](#) 
