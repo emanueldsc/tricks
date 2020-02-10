@@ -53,7 +53,7 @@ main .card-project:hover h2{
 }
 
 .card-1 {
-    background-image: url('./src/cards-animate.PNG');
+    background-image: url('./src/cards-animate.png');
     color: whitesmoke;
 }
 .card-2{
