@@ -13,8 +13,8 @@ document.addEventListener('scroll', e => {
     layer1.style.width = (100 + scroll / 5) + "%";
     layer1.style.right = scroll / 50 + "%";
 
-    layer2.style.width = (100 + scroll / 5) + "%";
-    layer2.style.left = scroll / 50 + "%";
+    layer2.style.width = (100 + scroll/ 10) + "%";
+    layer2.style.left = scroll /50 + "%";
 
     text.style.top = (-scroll / 15) + "%";
 

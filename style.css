@@ -41,9 +41,16 @@ main .card-project {
     transition: 0.2s;
 }
 main .card-project:hover{
+    animation: animation 100s linear infinite;
     transform: scale(1.05);
     cursor: pointer;
 }
+
+@keyframes animation {
+    100%{
+     background-position: 0 -3000px;
+   }
+ }
 main .card-project:hover h2{
  transition: 0.2s;
 }
@@ -59,6 +66,10 @@ main .card-project:hover h2{
 .card-2{
     background-image: url('./src/cards-white.png');
     color: navy;
+}
+.card-3{
+    background-image: url('./src/parallax.png');
+    color: red;
 }
 footer {
     display: block;
